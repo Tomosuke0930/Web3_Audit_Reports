@@ -17,3 +17,12 @@ https://paladinsec.co/projects/
 
 ## Code4rena
 https://code4rena.com/reports
+
+## Spearbit
+https://github.com/spearbit/portfolio/tree/master/pdfs
+
+## QuillAudits
+https://github.com/Quillhash/QuillAudit_Reports
+
+## Ackee Blockchain
+https://ackeeblockchain.com/blog/category/audits/
