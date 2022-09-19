@@ -26,3 +26,16 @@ https://github.com/Quillhash/QuillAudit_Reports
 
 ## Ackee Blockchain
 https://ackeeblockchain.com/blog/category/audits/
+
+
+## Solidity Finance
+https://solidity.finance/audits/
+
+## Halborn Security
+https://github.com/HalbornSecurity/PublicReports
+
+## Oak Security
+https://github.com/oak-security/audit-reports
+
+## Omniscia
+https://omniscia.io/
